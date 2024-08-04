@@ -1,5 +1,8 @@
 #include <iostream>
 
+// TODO: impl dynamic array
+// TODO: impl mulidimensional array
+
 void static_array() {
   const unsigned size = 10;
   int arr[size] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
