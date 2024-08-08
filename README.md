@@ -17,3 +17,7 @@ cd /dsa
 - static_array
 #### algorithms
 ##### insertion sort
+
+###### resource
+[programming.language.cpp.*](https://github.com/permalik/literature)
+[programming.language.dsa.*](https://github.com/permalik/literature)
